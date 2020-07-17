@@ -21,6 +21,10 @@ This laptop makes a pretty good hackintosh and supports next to all features, I'
 - [ ] HDMI port (wired to NVIDIA, thus it's dead)
 - [ ] Cardreader (sadly PCI and not USB, can't find drivers)
 
+# ToDo
+
+- [ ] Undervolting by 100mv to 150mv
+
 ## BIOS settings
 
 Coming soon...
@@ -31,6 +35,4 @@ The PS2 keyboard keys are all messed up, working like that would be a nightmare.
 
 ![remappings](imgs/karabiner_remaps.png "Karabiner Key Remappings")
 
-## ToDo
 
-- [ ] Undervolting by 100mv to 150mv

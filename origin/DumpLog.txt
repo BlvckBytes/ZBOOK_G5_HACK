@@ -1,0 +1,222 @@
+41:408  4:263  Found BIOS RSDP at FBE00
+41:452  0:043  Printing ACPI tables from RSDP FBE00 ...
+41:490  0:038   FBE00: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+41:600  0:110    (Xsdt: 73CB7188, Rsdt: 73CB70C4)
+41:628  0:027    73CB7188: 'XSDT', 'SLIC-BPC', Rev: 1, Len: 316
+41:748  0:120    73CB70C4: 'RSDT', 'SLIC-BPC', Rev: 1, Len: 176
+41:831  0:082    Tables in Xsdt: 35
+41:959  0:127    0. 73CF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+42:073  0:114        (Dsdt: 73CC6000, Facs: 73C1B000, XDsdt: 73CC6000, XFacs: 0)
+42:156  0:082        73CC6000: 'DSDT', '8427', Rev: 2, Len: 166511
+42:242  0:085        73C1B000: 'FACS', Ver: 2, Len: 64
+42:317  0:075    1. 73D0C000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+42:400  0:082    2. 73D0A000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+42:482  0:082    3. 73D09000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+42:565  0:082    4. 73CFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 53626
+42:667  0:102    5. 73CFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+42:767  0:100    6. 73CF7000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+42:850  0:082    7. 73CF6000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+42:932  0:082    8. 73CF4000: 'HPET', '8427', Rev: 1, Len: 56
+43:039  0:106    9. 73CF3000: 'APIC', '8427', Rev: 3, Len: 300
+43:122  0:083    10. 73CF2000: 'MCFG', '8427', Rev: 1, Len: 60
+43:205  0:083    11. 73CF1000: 'MSDM', 'SLIC-BPC', Rev: 3, Len: 85
+43:288  0:082    12. 73CF0000: 'SLIC', 'SLIC-BPC', Rev: 1, Len: 374
+43:417  0:128    13. 73CEF000: 'WSMT', '8427', Rev: 1, Len: 40
+43:499  0:082    14. 73CC5000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+43:582  0:082    15. 73CC4000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2565
+43:665  0:082    16. 73CC0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14547
+43:771  0:106    17. 73CBC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+43:855  0:083    18. 73CB9000: 'SSDT', 'PegSsdt', Rev: 2, Len: 9853
+44:021  0:166    19. 73CB8000: 'LPIT', 'CFL', Rev: 1, Len: 148
+44:103  0:082    20. 73D0D000: 'WSMT', 'CFL', Rev: 1, Len: 40
+44:227  0:123    21. 73CB6000: 'SSDT', 'Wwan', Rev: 2, Len: 1256
+44:310  0:083    22. 73C16000: 'UEFI', 'CFL', Rev: 1, Len: 66
+44:393  0:083    23. 73CB5000: 'OEML', 'CFL', Rev: 3, Len: 40
+44:488  0:094    24. 73CB4000: 'NHLT', 'CFL', Rev: 0, Len: 45
+44:610  0:122    25. 73CA0000: 'SSDT', 'HPTBT', Rev: 2, Len: 81142
+44:692  0:082    26. 73C9F000: 'SSDT', 'NVPOWERC', Rev: 1, Len: 801
+44:775  0:082    27. 73C9D000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 5280
+44:857  0:082    28. 73C9C000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+44:982  0:125    29. 73C97000: 'SSDT', 'NVSGTBL', Rev: 1, Len: 18760
+45:065  0:082    30. 73C96000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 105
+45:148  0:082    31. 73C95000: 'ASF!', ' UYA', Rev: 32, Len: 160
+45:248  0:100    32. 73C94000: 'FPDT', 'CFL', Rev: 1, Len: 68
+45:359  0:110    33. 73C93000: 'BGRT', 'CFL', Rev: 1, Len: 56
+45:441  0:082    34. 73CF9000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
+45:524  0:082    Tables in Rsdt: 35
+45:552  0:027    0. 73CF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+45:675  0:122        (Dsdt: 73CC6000, Facs: 73C1B000, XDsdt: 73CC6000, XFacs: 0)
+45:757  0:082        73CC6000: 'DSDT', '8427', Rev: 2, Len: 166511
+45:843  0:085        73C1B000: 'FACS', Ver: 2, Len: 64
+45:898  0:054    1. 73D0C000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+46:003  0:105    2. 73D0A000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+46:171  0:167    3. 73D09000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+46:254  0:082    4. 73CFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 53626
+46:354  0:099    5. 73CFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+46:461  0:107    6. 73CF7000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+46:544  0:083    7. 73CF6000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+46:627  0:082    8. 73CF4000: 'HPET', '8427', Rev: 1, Len: 56
+46:710  0:083    9. 73CF3000: 'APIC', '8427', Rev: 3, Len: 300
+46:831  0:120    10. 73CF2000: 'MCFG', '8427', Rev: 1, Len: 60
+46:927  0:095    11. 73CF1000: 'MSDM', 'SLIC-BPC', Rev: 3, Len: 85
+47:009  0:082    12. 73CF0000: 'SLIC', 'SLIC-BPC', Rev: 1, Len: 374
+47:109  0:100    13. 73CEF000: 'WSMT', '8427', Rev: 1, Len: 40
+47:217  0:107    14. 73CC5000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+47:300  0:083    15. 73CC4000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2565
+47:384  0:083    16. 73CC0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14547
+47:467  0:083    17. 73CBC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+47:568  0:101    18. 73CB9000: 'SSDT', 'PegSsdt', Rev: 2, Len: 9853
+47:651  0:082    19. 73CB8000: 'LPIT', 'CFL', Rev: 1, Len: 148
+47:734  0:082    20. 73D0D000: 'WSMT', 'CFL', Rev: 1, Len: 40
+47:845  0:111    21. 73CB6000: 'SSDT', 'Wwan', Rev: 2, Len: 1256
+47:941  0:095    22. 73C16000: 'UEFI', 'CFL', Rev: 1, Len: 66
+48:024  0:083    23. 73CB5000: 'OEML', 'CFL', Rev: 3, Len: 40
+48:185  0:160    24. 73CB4000: 'NHLT', 'CFL', Rev: 0, Len: 45
+48:686  0:501    25. 73CA0000: 'SSDT', 'HPTBT', Rev: 2, Len: 81142
+48:769  0:082    26. 73C9F000: 'SSDT', 'NVPOWERC', Rev: 1, Len: 801
+48:851  0:082    27. 73C9D000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 5280
+48:969  0:118    28. 73C9C000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+49:054  0:084    29. 73C97000: 'SSDT', 'NVSGTBL', Rev: 1, Len: 18760
+49:137  0:082    30. 73C96000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 105
+49:219  0:082    31. 73C95000: 'ASF!', ' UYA', Rev: 32, Len: 160
+49:316  0:096    32. 73C94000: 'FPDT', 'CFL', Rev: 1, Len: 68
+49:409  0:093    33. 73C93000: 'BGRT', 'CFL', Rev: 1, Len: 56
+49:492  0:083    34. 73CF9000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
+49:575  0:082  Found UEFI Acpi 2.0 RSDP at 73D0E014
+49:621  0:045  Saving ACPI tables from RSDP 73D0E014 to EFI\CLOVER\ACPI\origin ...
+49:660  0:039   73D0E014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+49:895  0:234    (Xsdt: 73CB7188, Rsdt: 73CB70C4)
+49:922  0:027    73CB7188: 'XSDT', 'SLIC-BPC', Rev: 1, Len: 316 -> XSDT.aml
+50:126  0:203    73CB70C4: 'RSDT', 'SLIC-BPC', Rev: 1, Len: 176 -> RSDT.aml
+50:305  0:179    Tables in Xsdt: 35
+50:333  0:027    0. 73CF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276 -> FACP.aml
+50:547  0:214        (Dsdt: 73CC6000, Facs: 73C1B000, XDsdt: 73CC6000, XFacs: 0)
+50:732  0:184        73CC6000: 'DSDT', '8427', Rev: 2, Len: 166511 -> DSDT.aml
+51:057  0:324        73C1B000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+51:218  0:161    1. 73D0C000: 'SSDT', 'ShmTable', Rev: 2, Len: 298 -> SSDT-0-ShmTable.aml
+51:423  0:204    2. 73D0A000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007 -> SSDT-1-CpuSsdt.aml (Found hidden SSDT 9 pcs)
+51:603  0:180        * 73A89198: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1409  53 53 44 54 81 05 00 00 02 38 50 6D 52 65 66 00 Internal length = 1409 -> SSDT-x1_0-Cpu0Ist.aml
+52:346  0:743        * 73A26018: 'SSDT', 'ApIst', Rev: 2, Len: 1532  53 53 44 54 FC 05 00 00 02 23 50 6D 52 65 66 00 Internal length = 1532 -> SSDT-x1_1-ApIst.aml
+53:656  1:310        * 73A26698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1024  53 53 44 54 00 04 00 00 02 D9 50 6D 52 65 66 00 Internal length = 1024 -> SSDT-x1_2-Cpu0Cst.aml
+55:202  1:545        * 73A27A98: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 E9 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x1_3-ApCst.aml
+56:793  1:591        * 73A89998: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 329  53 53 44 54 49 01 00 00 02 51 50 6D 52 65 66 00 Internal length = 329 -> SSDT-x1_4-Cpu0Hwp.aml
+58:714  1:920        * 73A89C18: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 E3 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x1_5-ApHwp.aml
+60:262  1:548        * 73A27018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1828  53 53 44 54 24 07 00 00 02 CA 50 6D 52 65 66 00 Internal length = 1828 -> SSDT-x1_6-HwpLvt.aml
+61:893  1:630        * 73A89818: 'SSDT', 'Cpu0Psd', Rev: 2, Len: 244  53 53 44 54 F4 00 00 00 02 37 50 6D 52 65 66 00 Internal length = 244 -> SSDT-x1_7-Cpu0Psd.aml
+63:814  1:920        * 73A25018: 'SSDT', 'ApPsd', Rev: 2, Len: 2736  53 53 44 54 B0 0A 00 00 02 AB 50 6D 52 65 66 00 Internal length = 2736 -> SSDT-x1_8-ApPsd.aml
+65:364  1:550  
+65:433  0:068    3. 73D09000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511 -> SSDT-2-CtdpB.aml
+65:861  0:428    4. 73CFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 53626 -> SSDT-3-PLT_RTD3.aml
+66:361  0:499    5. 73CFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158 -> RTMA.aml
+66:814  0:453    6. 73CF7000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493 -> SSDT-4-UcsiAcpi.aml
+67:287  0:473    7. 73CF6000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251 -> SSDT-5-UcsiCntr.aml
+67:730  0:443    8. 73CF4000: 'HPET', '8427', Rev: 1, Len: 56 -> HPET.aml
+68:161  0:430    9. 73CF3000: 'APIC', '8427', Rev: 3, Len: 300 -> APIC.aml
+68:746  0:584    10. 73CF2000: 'MCFG', '8427', Rev: 1, Len: 60 -> MCFG.aml
+69:244  0:498    11. 73CF1000: 'MSDM', 'SLIC-BPC', Rev: 3, Len: 85 -> MSDM.aml
+69:673  0:428    12. 73CF0000: 'SLIC', 'SLIC-BPC', Rev: 1, Len: 374 -> SLIC.aml
+70:112  0:439    13. 73CEF000: 'WSMT', '8427', Rev: 1, Len: 40 -> WSMT.aml
+70:542  0:429    14. 73CC5000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862 -> SSDT-6-PtidDevc.aml
+70:999  0:457    15. 73CC4000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2565 -> SSDT-7-HP_XHC_P.aml
+71:508  0:509    16. 73CC0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14547 -> SSDT-8-DptfTabl.aml
+71:997  0:488    17. 73CBC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525 -> SSDT-9-SaSsdt.aml
+72:437  0:440    18. 73CB9000: 'SSDT', 'PegSsdt', Rev: 2, Len: 9853 -> SSDT-10-PegSsdt.aml
+72:866  0:429    19. 73CB8000: 'LPIT', 'CFL', Rev: 1, Len: 148 -> LPIT.aml
+74:478  1:611    20. 73D0D000: 'WSMT', 'CFL', Rev: 1, Len: 40 -> WSMT.aml
+74:714  0:235    21. 73CB6000: 'SSDT', 'Wwan', Rev: 2, Len: 1256 -> SSDT-11-Wwan.aml
+74:918  0:204    22. 73C16000: 'UEFI', 'CFL', Rev: 1, Len: 66 -> UEFI.aml
+75:147  0:229    23. 73CB5000: 'OEML', 'CFL', Rev: 3, Len: 40 -> OEML.aml
+75:327  0:180    24. 73CB4000: 'NHLT', 'CFL', Rev: 0, Len: 45 -> NHLT.aml
+75:541  0:213    25. 73CA0000: 'SSDT', 'HPTBT', Rev: 2, Len: 81142 -> SSDT-12-HPTBT.aml
+75:792  0:251    26. 73C9F000: 'SSDT', 'NVPOWERC', Rev: 1, Len: 801 -> SSDT-13-NVPOWERC.aml
+75:996  0:203    27. 73C9D000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 5280 -> SSDT-14-HPINNBWL.aml
+76:176  0:180    28. 73C9C000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50 -> SSDT-15-HPCONDEV.aml
+76:403  0:226    29. 73C97000: 'SSDT', 'NVSGTBL', Rev: 1, Len: 18760 -> SSDT-16-NVSGTBL.aml
+76:708  0:305    30. 73C96000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 105 -> SSDT-17-HPCAHWID.aml
+76:882  0:174    31. 73C95000: 'ASF!', ' UYA', Rev: 32, Len: 160 -> ASF!.aml
+77:081  0:199    32. 73C94000: 'FPDT', 'CFL', Rev: 1, Len: 68 -> FPDT.aml
+77:257  0:175    33. 73C93000: 'BGRT', 'CFL', Rev: 1, Len: 56 -> BGRT.aml
+77:511  0:254    34. 73CF9000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761 -> SSDT-18-PwrCtlEv.aml
+77:742  0:231    Tables in Rsdt: 35
+77:779  0:036    0. 73CF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+77:863  0:083        (Dsdt: 73CC6000, Facs: 73C1B000, XDsdt: 73CC6000, XFacs: 0)
+77:946  0:083        73CC6000: 'DSDT', '8427', Rev: 2, Len: 166511
+78:032  0:086        73C1B000: 'FACS', Ver: 2, Len: 64
+78:099  0:067    1. 73D0C000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+78:222  0:122    2. 73D0A000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+78:305  0:082    3. 73D09000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+78:406  0:100    4. 73CFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 53626
+78:511  0:105    5. 73CFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+78:596  0:085    6. 73CF7000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+78:680  0:083    7. 73CF6000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+78:763  0:083    8. 73CF4000: 'HPET', '8427', Rev: 1, Len: 56
+78:953  0:189    9. 73CF3000: 'APIC', '8427', Rev: 3, Len: 300
+79:038  0:084    10. 73CF2000: 'MCFG', '8427', Rev: 1, Len: 60
+79:122  0:083    11. 73CF1000: 'MSDM', 'SLIC-BPC', Rev: 3, Len: 85
+79:223  0:100    12. 73CF0000: 'SLIC', 'SLIC-BPC', Rev: 1, Len: 374
+79:344  0:121    13. 73CEF000: 'WSMT', '8427', Rev: 1, Len: 40
+79:440  0:095    14. 73CC5000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+79:523  0:083    15. 73CC4000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2565
+79:606  0:083    16. 73CC0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14547
+79:714  0:107    17. 73CBC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+79:797  0:083    18. 73CB9000: 'SSDT', 'PegSsdt', Rev: 2, Len: 9853
+79:898  0:101    19. 73CB8000: 'LPIT', 'CFL', Rev: 1, Len: 148
+79:982  0:083    20. 73D0D000: 'WSMT', 'CFL', Rev: 1, Len: 40
+80:084  0:102    21. 73CB6000: 'SSDT', 'Wwan', Rev: 2, Len: 1256
+80:167  0:082    22. 73C16000: 'UEFI', 'CFL', Rev: 1, Len: 66
+80:250  0:083    23. 73CB5000: 'OEML', 'CFL', Rev: 3, Len: 40
+80:333  0:083    24. 73CB4000: 'NHLT', 'CFL', Rev: 0, Len: 45
+80:441  0:107    25. 73CA0000: 'SSDT', 'HPTBT', Rev: 2, Len: 81142
+80:525  0:083    26. 73C9F000: 'SSDT', 'NVPOWERC', Rev: 1, Len: 801
+80:626  0:101    27. 73C9D000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 5280
+80:709  0:083    28. 73C9C000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+80:812  0:102    29. 73C97000: 'SSDT', 'NVSGTBL', Rev: 1, Len: 18760
+80:895  0:082    30. 73C96000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 105
+81:061  0:165    31. 73C95000: 'ASF!', ' UYA', Rev: 32, Len: 160
+81:143  0:082    32. 73C94000: 'FPDT', 'CFL', Rev: 1, Len: 68
+81:251  0:107    33. 73C93000: 'BGRT', 'CFL', Rev: 1, Len: 56
+81:334  0:083    34. 73CF9000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
+81:436  0:101  Found UEFI Acpi 1.0 RSDP at 73D0E000
+81:463  0:027  Printing ACPI tables from RSDP 73D0E000 ...
+81:491  0:027   73D0E000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+81:653  0:161    (Rsdt: 73CB7000)
+81:681  0:027    73CB7000: 'RSDT', 'SLIC-BPC', Rev: 1, Len: 176
+81:764  0:083    Tables in Rsdt: 35
+81:791  0:027    0. 73CF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+81:875  0:083        (Dsdt: 73CC6000, Facs: 73C1B000, XDsdt: 73CC6000, XFacs: 0)
+82:000  0:124        73CC6000: 'DSDT', '8427', Rev: 2, Len: 166511
+82:086  0:086        73C1B000: 'FACS', Ver: 2, Len: 64
+82:142  0:055    1. 73D0C000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+82:226  0:083    2. 73D0A000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+82:328  0:102    3. 73D09000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+82:411  0:082    4. 73CFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 53626
+82:494  0:083    5. 73CFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+82:577  0:083    6. 73CF7000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+82:702  0:124    7. 73CF6000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+82:786  0:083    8. 73CF4000: 'HPET', '8427', Rev: 1, Len: 56
+82:869  0:083    9. 73CF3000: 'APIC', '8427', Rev: 3, Len: 300
+82:952  0:083    10. 73CF2000: 'MCFG', '8427', Rev: 1, Len: 60
+83:137  0:184    11. 73CF1000: 'MSDM', 'SLIC-BPC', Rev: 3, Len: 85
+83:220  0:082    12. 73CF0000: 'SLIC', 'SLIC-BPC', Rev: 1, Len: 374
+83:302  0:082    13. 73CEF000: 'WSMT', '8427', Rev: 1, Len: 40
+83:385  0:082    14. 73CC5000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+83:509  0:123    15. 73CC4000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2565
+83:592  0:082    16. 73CC0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14547
+83:674  0:082    17. 73CBC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+83:772  0:097    18. 73CB9000: 'SSDT', 'PegSsdt', Rev: 2, Len: 9853
+83:865  0:092    19. 73CB8000: 'LPIT', 'CFL', Rev: 1, Len: 148
+83:948  0:083    20. 73D0D000: 'WSMT', 'CFL', Rev: 1, Len: 40
+84:031  0:083    21. 73CB6000: 'SSDT', 'Wwan', Rev: 2, Len: 1256
+84:160  0:129    22. 73C16000: 'UEFI', 'CFL', Rev: 1, Len: 66
+84:267  0:106    23. 73CB5000: 'OEML', 'CFL', Rev: 3, Len: 40
+84:350  0:082    24. 73CB4000: 'NHLT', 'CFL', Rev: 0, Len: 45
+84:433  0:082    25. 73CA0000: 'SSDT', 'HPTBT', Rev: 2, Len: 81142
+84:538  0:105    26. 73C9F000: 'SSDT', 'NVPOWERC', Rev: 1, Len: 801
+84:624  0:085    27. 73C9D000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 5280
+84:707  0:083    28. 73C9C000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+84:790  0:083    29. 73C97000: 'SSDT', 'NVSGTBL', Rev: 1, Len: 18760
+84:912  0:122    30. 73C96000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 105
+84:996  0:083    31. 73C95000: 'ASF!', ' UYA', Rev: 32, Len: 160
+85:079  0:083    32. 73C94000: 'FPDT', 'CFL', Rev: 1, Len: 68
+85:245  0:166    33. 73C93000: 'BGRT', 'CFL', Rev: 1, Len: 56
+85:352  0:106    34. 73CF9000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761

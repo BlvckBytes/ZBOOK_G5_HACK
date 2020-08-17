@@ -20,6 +20,7 @@ This laptop makes a pretty good hackintosh and supports next to all features, I'
 - [ ] WiFi (seems very hard)
 - [ ] HDMI port (wired to NVIDIA, thus it's dead)
 - [ ] Cardreader (sadly PCI and not USB, can't find drivers)
+- [ ] Thunderbolt (got no devices to test, but hotplug is not patched yet)
 
 # ToDo
 
